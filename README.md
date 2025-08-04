@@ -1,7 +1,7 @@
 # 🎮 Game Developer & Digital Creator
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,17,18,19,20&height=180&section=header&text=yqwz1&fontSize=70&fontAlignY=25&desc=Indie%20Game%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=180&section=header&text=yqwz1&fontSize=70&fontAlignY=25&desc=Indie%20Game%20Developer&descAlignY=55&descAlign=50"/>
 </div>
 
 <div align="center">
@@ -149,5 +149,5 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,17,18,19,20&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=120&section=footer"/>
 </div>
