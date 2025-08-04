@@ -1,52 +1,46 @@
-<!-- Header Banner -->
+<!-- Banner/Header (replace URL if you have a custom one) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJ0MW1kOGllM3Q0ZDBzdXR4Y2JkOXdteXh4cW9kZjB0ZmgzazR4cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oYQ9HRm5Mo7VXeMNVR/giphy.gif" width="300" alt="Game Dev Animation"/>
+  <img src="https://i.imgur.com/vfSgvNp.png" width="80%" alt="Wahib Banner"/> <!-- Make a cool name banner, or use this placeholder -->
 </p>
 
-<h1 align="center">Hey there 👋, I'm Wahib Mohammed</h1>
+<h2 align="center">Olá! I'm <strong>Wahib Mohammed</strong></h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=14F7B7&center=true&vCenter=true&width=600&lines=Game+Developer;Unity+Expert;Polish+%26+Game+Design+Enthusiast;Indie+Games+with+Soul+%26+Style" alt="Typing SVG">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWU1dHhkdXE5Z29sNTdzdnlvZG4xc2E4bmtpaDhscmpycDJraThqciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="90" alt="Game Avatar" />
 </p>
 
 ---
 
-## 🎮 About Me
+### 👾 Who Am I?
 
-- 🕹️ **Unity specialist** — love to build, code, polish, and ship!
-- 👾 Passionate about **game design** and turning ideas into *playable* art.
-- 🖌️ Pixel art & polish freak. I use **Aseprite** to make visuals pop!
-- 💻 Full stack: **C# | Flutter | Spring Boot | Python | Java | JavaScript**
-- ✉️ Reach me: [wahibpop@gmail.com](mailto:wahibpop@gmail.com)
-- 🔗 Socials: [LinkedIn](https://www.linkedin.com/in/wahib-mohammed-b03324229/) | [X/Twitter](https://x.com/yqwz_)
+I'm a **game developer & designer** specializing in **Unity** (C#) and full-stack tools.  
+I love creating polished, fun, and meaningful games.  
+From pixel art in **Aseprite** to deep game systems and slick UIs,  
+I obsess over *every* detail.
 
----
-
-## 🚀 My Top Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [![AstroBlaster](https://img.shields.io/badge/-AstroBlaster-8a2be2?style=flat-square)](https://github.com/wahibpop/AstroBlaster) | Arcade shooter with wild polish! | Unity, C#, Aseprite |
-| [![PixelPuzzle](https://img.shields.io/badge/-PixelPuzzle-00b894?style=flat-square)](https://github.com/wahibpop/PixelPuzzle) | Zen pixel art puzzle game | Unity, C#, Aseprite |
-| [![DevTools](https://img.shields.io/badge/-DevTools-0984e3?style=flat-square)](https://github.com/wahibpop/DevTools) | Unity editor extensions for devs | Unity, C# |
-
-> _*Swap in your real project names and links above for maximum power!_
+- **Coding**: Unity C#, Python, Java, JavaScript, Flutter, Spring Boot
+- **Design**: Game feel, polish, systems, fun!
+- **Tools**: Unity, Aseprite, Figma, Git
+- **Looking for collaborations** and open to cool indie projects.
 
 ---
 
-## 🛠️ Skills
+### 📝 A Little More About Me
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white)
+I love:
+- 🕹️ Building games that feel **great to play**
+- 🎨 Crafting pixel art and custom shaders
+- 🚀 Prototyping weird ideas and taking them to a finished, polished state
+- 💡 Sharing tips, collaborating, helping others grow
+
+Connect with me:  
+[![Gmail](https://img.shields.io/badge/-wahibpop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:wahibpop@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahib-mohammed-b03324229/)
+[![X](https://img.shields.io/badge/-@yqwz_-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/yqwz_)
 
 ---
 
-## 🌟 GitHub Stats
+### 📈 GitHub Status
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wahibpop&show_icons=true&theme=tokyonight" width="45%">
@@ -55,43 +49,53 @@
 
 ---
 
-## 🏆 Trophies
+### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wahibpop&theme=onestar&row=1&no-frame=true"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="32" alt="Unity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" alt="Flutter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aseprite/aseprite-original.svg" height="32" alt="Aseprite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma"/>
 </p>
 
 ---
 
-## 🎬 Gifs & Fun
+### 🚀 My Featured Repositories
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW84b3dmOTVqYnQ2ZXZ0aDJ3djJtNGh6Z2xwZ3kwbnJoa2RzaHM5aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="180"/>
-</p>
-
----
-
-## 💡 Quotes I Like
-
-> “Games are the only force in the known universe that can get people to take actions against their own self-interest — in a predictable way — without using force.”  
-> *— Jane McGonigal*
-
-> *“It’s dangerous to go alone! Take this.”*  
-> — The Legend of Zelda
-
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahib-mohammed-b03324229/)
-[![X](https://img.shields.io/badge/-@yqwz_-1da1f2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/yqwz_)
-[![Gmail](https://img.shields.io/badge/-wahibpop@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:wahibpop@gmail.com)
+<table>
+  <tr>
+    <td>
+      <strong>[AstroBlaster](https://github.com/wahibpop/AstroBlaster)</strong><br/>
+      Fast-paced arcade shooter, full of polish, juicy VFX & custom shaders.<br/>
+      <em>Unity, C#, Aseprite</em>
+    </td>
+    <td>
+      <strong>[PixelPuzzle](https://github.com/wahibpop/PixelPuzzle)</strong><br/>
+      Relaxing pixel-art puzzle game, made to chill and unwind.<br/>
+      <em>Unity, C#, Aseprite</em>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <strong>[DevTools](https://github.com/wahibpop/DevTools)</strong><br/>
+      Unity editor extensions to speed up your workflow.<br/>
+      <em>Unity, C#</em>
+    </td>
+    <td>
+      <strong>[GameTemplate](https://github.com/wahibpop/GameTemplate)</strong><br/>
+      Modular Unity template with polish, ready to start any genre.<br/>
+      <em>Unity, C#, UI/UX</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wahibpop&style=flat-square&color=blue" alt="Profile views" />
 </p>
-
