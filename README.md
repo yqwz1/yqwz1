@@ -1,4 +1,4 @@
-# 🎮 Game Developer & Digital Creator
+# 🎮 Game Developer
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=_000000&fontColor=FFFFFF&height=180&section=header&text=yqwz1&fontSize=70&fontAlignY=25&desc=Indie%20Game%20Developer&descAlignY=55&descAlign=50"/>
