@@ -1,140 +1,226 @@
-# 🎮 Game Developer
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=_000000&fontColor=FFFFFF&height=180&section=header&text=yqwz1&fontSize=70&fontAlignY=25&desc=Indie%20Game%20Developer&descAlignY=55&descAlign=50"/>
-</div>
-
 <div align="center">
 
-### 🚀 Connect With Me
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,25:0D1117,50:111827,75:1E3A8A,100:38BDF8&text=YQWZ1&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Indie%20Game%20Developer%20%E2%80%A2%20Unity%20Programmer%20%E2%80%A2%20Creative%20Coder&descAlignY=58&animation=twinkling" />
 
-<a href="https://yqwz1.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/🎮_Itch.io-FA5C5C?style=for-the-badge&logoColor=white" alt="Itch.io"/>
-</a>
-<a href="https://x.com/yqwz_" target="_blank">
-  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://www.linkedin.com/in/wahib-mohammed-b03324229/" target="_blank">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logoColor=white" alt="LinkedIn"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron\&weight=700\&size=24\&duration=2200\&pause=700\&color=58A6FF\&center=true\&vCenter=true\&width=1000\&lines=Building+flashy+indie+games;Crafting+smooth+UI+and+game+feel;Designing+systems+players+remember;Unity+%7C+C%23+%7C+Gameplay+%7C+Tools)](https://git.io/typing-svg)
 
-</div>
+<img src="https://img.shields.io/badge/Engine-Unity-111827?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/Code-C%23-2563EB?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Gameplay%20%26%20UI-0EA5E9?style=for-the-badge&logo=gamemaker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vibe-Clean%20%2B%20Flashy-7C3AED?style=for-the-badge" />
 
----
+<br/>
+<br/>
 
-## 🎯 Featured Games
-
-<div align="center">
-
-| 🎮 Game | 🏷️ Genre | 🌐 Platform | 📝 Description |
-|---------|----------|-------------|----------------|
-| **🐟 John Fish** | Action | Browser | World's most deadliest fish |
-| **🏠 Stay Within** | Survival | Browser | It's not safe outside!!! Follow instructions to survive |
-| **⚔️ Zanta** | Action | Browser | Let's see how long you will survive 😉 |
-| **🏃 MotionCube** | Racing | Multiple | Endless Runner Game |
-
-<a href="https://yqwz1.itch.io/" target="_blank">
-  <img src="https://img.shields.io/badge/🎮_Play_All_Games-FA5C5C?style=for-the-badge&logo=&logoColor=white" alt="Play Games"/>
-</a>
+[![Itch.io](https://img.shields.io/badge/PLAY_MY_GAMES-Itch.io-FA5C5C?style=for-the-badge\&logo=itchdotio\&logoColor=white)](https://yqwz1.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wahib-mohammed-b03324229/)
+[![X](https://img.shields.io/badge/FOLLOW-X-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/yqwz_)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yqwz1&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yqwz1&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yqwz1&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF6B6B&currStreakLabel=C9D1D9)
-  
+
+## `PLAYER PROFILE`
+
 </div>
 
----
-
-## 🛠️ Tech Stack
+```yaml
+name: Wahib Mohammed
+alias: yqwz1
+class: Indie Game Developer
+specialties:
+  - Gameplay Programming
+  - UI / UX for Games
+  - Rapid Prototyping
+  - Dialogue & Interaction Systems
+main_build:
+  engine: Unity
+  language: C#
+  side_tools: [Python, Blender, Godot, React]
+mission: "Build stylish, immersive, and memorable interactive experiences"
+```
 
 <div align="center">
 
-### 🎮 Game Engines & Tools
-<img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/-Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/-Aseprite-7D929E?style=flat-square&logo=aseprite&logoColor=white" />
-
-### 💻 Programming Languages
-<img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-
-### 🚀 Frameworks & Libraries
-<img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-
-### 🔧 Tools & Platforms
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-JetBrains_Rider-000000?style=flat-square&logo=rider&logoColor=white" />
-<img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-
-### 📝 Productivity & Notes
-<img src="https://img.shields.io/badge/-Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white" />
-<img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white" />
-
-### 🎨 Design & Media
-<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/-FL_Studio-FF7800?style=flat-square&logo=fl-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/-DaVinci_Resolve-233A51?style=flat-square&logo=davinci-resolve&logoColor=white" />
-<img src="https://img.shields.io/badge/-Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white" />
+> "Smooth feel. Strong visuals. Systems that keep players engaged."
 
 </div>
 
 ---
 
-## 📈 Activity & Achievements
+<div align="center">
+
+## `FEATURED GAMES`
+
+**A quick look at the worlds, moods, and gameplay styles I love building.**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+## `JOHN FISH`
+
+<img src="https://img.shields.io/badge/ARCADE-ACTION-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PLATFORM-BROWSER-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIBE-CHAOTIC-EC4899?style=for-the-badge" />
+
+### *Enter the water. Become the nightmare.*
+
+A fast, absurd, high-pressure action experience built around **chaos**, **timing**, and **instant danger**.
+
+`aggressive` `unpredictable` `score-driven`
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+## `STAY WITHIN`
+
+<img src="https://img.shields.io/badge/SURVIVAL-THRILLER-F97316?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PLATFORM-BROWSER-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIBE-TENSE-E11D48?style=for-the-badge" />
+
+### *The rules keep you alive. Breaking them doesn't.*
+
+A tense survival game where every instruction matters and the atmosphere does the damage before the enemy does.
+
+`reactive` `high tension` `atmospheric`
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div align="center">
+
+## `ZANTA`
+
+<img src="https://img.shields.io/badge/COMBAT-SURVIVAL-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PLATFORM-BROWSER-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIBE-INTENSE-DC2626?style=for-the-badge" />
+
+### *Step in. Fight harder. Last longer.*
+
+A survival-action prototype focused on **reflexes**, **pressure**, and the thrill of pushing your limit a little further every run.
+
+`relentless` `fast response` `endurance`
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div align="center">
+
+## `MOTIONCUBE`
+
+<img src="https://img.shields.io/badge/ENDLESS-RUNNER-22C55E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PLATFORM-MULTI--PLATFORM-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VIBE-VELOCITY-06B6D4?style=for-the-badge" />
+
+### *Momentum is everything.*
+
+A speed-focused endless runner built around **flow**, **movement rhythm**, and that satisfying feeling of staying locked in.
+
+`momentum` `rhythm` `clean movement`
+
+</div>
+</td>
+</tr>
+</table>
 
 <div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yqwz1&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF6B6B)
-  
-  ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=yqwz1&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yqwz1&color=58A6FF&style=flat-square&label=Profile+Views)
-  ![Followers](https://img.shields.io/github/followers/yqwz1?color=58A6FF&style=flat-square&label=Followers)
-  
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0EA5E9,25:8B5CF6,50:EC4899,75:F97316,100:22C55E&height=2&section=header" />
+
+### `WANT THE FULL BUILD LIST?`
+
+[![Play All Games](https://img.shields.io/badge/PLAY_ALL_GAMES-ON_ITCH.IO-FA5C5C?style=for-the-badge\&logo=itchdotio\&logoColor=white)](https://yqwz1.itch.io/)
+
 </div>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-```javascript
-const developer = {
-    name: "yqwz1",
-    role: "Indie Game Developer",
-    focus: ["Game Development", "Interactive Design", "Creative Coding"],
-    currentlyWorking: "Building immersive gaming experiences",
-    technologies: ["Unity", "Godot", "C#", "Python"],
-    goals: "Creating engaging indie games"
+## `DEV HIGHLIGHTS`
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🎓 Leadership
+
+Head of the **Game Development Committee** at **UQU Electronic Games Club**
+
+</td>
+<td align="center" width="33%">
+
+### 👨‍🏫 Mentoring
+
+Helped **100+ students** learn Unity and C# through workshops and collaborative projects
+
+</td>
+<td align="center" width="33%">
+
+### 🏆 Building
+
+Created gameplay systems, tools, and polished prototypes across jams and indie projects
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `CURRENT LOADOUT`
+
+<img src="https://skillicons.dev/icons?i=unity,cs,godot,blender,py,cpp,java,js,ts,react,nodejs,mysql,sqlite,git,github,vscode,figma,photoshop&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `GITHUB HUD`
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yqwz1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yqwz1&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://streak-stats.demolab.com?user=yqwz1&theme=tokyonight&hide_border=true" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yqwz1&theme=tokyo-night&hide_border=true&radius=16" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `WHAT I BUILD`
+
+</div>
+
+```ts
+const yqwz1 = {
+  role: "Indie Game Developer",
+  building: [
+    "Flashy gameplay prototypes",
+    "Responsive combat and movement systems",
+    "Smooth game UI and feedback loops",
+    "Dialogue-driven and atmospheric experiences"
+  ],
+  favoriteStack: ["Unity", "C#", "Blender", "Java"],
+  status: "Always creating"
 };
 ```
 
@@ -142,12 +228,32 @@ const developer = {
 
 <div align="center">
 
-**💡 Open to collaborations and new opportunities!**
+## `LIVE SIGNALS`
 
-*Building the future of interactive entertainment, one game at a time.*
+<img src="https://komarev.com/ghpvc/?username=yqwz1&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/yqwz1?style=for-the-badge&color=7c3aed&labelColor=111827&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/yqwz1?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=f59e0b&labelColor=111827&label=TOTAL+STARS" />
 
 </div>
 
+---
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=_000000&fontColor=FFFFFF&height=120&section=footer"/>
+
+## `PARTY UP`
+
+**Open to collaborations, creative projects, internships, and game dev opportunities.**
+
+[![Portfolio](https://img.shields.io/badge/ITCH.IO-SEE_MY_WORK-FA5C5C?style=for-the-badge\&logo=itchdotio\&logoColor=white)](https://yqwz1.itch.io/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-LET'S_TALK-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/wahib-mohammed-b03324229/)
+[![X](https://img.shields.io/badge/X-FOLLOW_ME-111111?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/yqwz_)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050816,25:0D1117,50:111827,75:1E3A8A,100:38BDF8" />
+
 </div>
